@@ -1,0 +1,63 @@
+@media (max-width: 1199px) {
+  /* header */
+  
+ 
+
+
+  /* booking area */
+  /* services */
+  
+}
+@media (max-width: 991px) {
+  /* custom css */
+  .section{
+    padding: 1.8rem 0;
+  } 
+  /* 2 navbar */
+  .header_wrapper.menu-navbar-nav{
+    text-align: center;
+    padding-bottom:.9rem;
+  }
+  .header_wrapper.menu-navbar-nav{
+    text-align: center;
+    padding-bottom:.9rem;
+  }
+  .header_wrapper.nav-item.nav-link{
+margin-top: .93rem;
+  }
+  /* banner wrapper */
+  /* About */
+  /* services */
+   
+  }
+  .header_wrapper.menu-navbar-nav-link{
+   margin-top: .9rem;
+}
+main.btn{
+  font-size: .8rem;
+}
+/* booking area */
+
+}
+@media(max-width:767px){
+    /* customtn css */
+    h1{
+        font-size: 1.8rem;
+        line-height:2.5rem;
+    }
+    h3{
+        font-size:1.75rem;
+        line-height: 2.1rem;
+    }
+    h5{
+        font-size: 1.25rem;
+    }
+    p{
+        font-size: .81rem;
+        line-height: 1.5rem;
+    }
+
+
+    /* blog */
+    /* footer */
+}
